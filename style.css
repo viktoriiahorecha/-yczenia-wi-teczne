@@ -1,0 +1,20 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #bf87da;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+main {
+    background-color: #d6b0e9;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
